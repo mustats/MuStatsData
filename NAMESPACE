@@ -1,6 +1,0 @@
-export("AMBNS", "CTG.NAOMIT", "Concrete", "Income2", "IncomeESL",
-       "LA.Neighborhoods", "Nile", "Orange", "Score", "Titanic", "TravelMode",
-       "TravelMode_wide", "WVS", "caith", "derm", "diabetes", "driver",
-       "driverC", "finland", "garmentsF", "hemophilia", "ksl", "oliveoil",
-       "pbc2", "pharynx", "pharynx1", "riesby", "riesby4", "riesbyF",
-       "satisfaction", "schizx1", "vcars", "wages")
